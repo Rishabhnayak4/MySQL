@@ -1,6 +1,6 @@
-# MySQL_Assignments
+# MySQL
 
-# In File Name - MySQL_Asignment
+# In File Name - MySQL
 
 1. What are the names of all the countries in the databases which start with the
 letter "B"
@@ -11,7 +11,7 @@ by the length
 (and for films with the same length order them by their name). Return their title
 and the length.
 
-# In File Name - MySQL_Assignment1
+# In File Name - MySQL1
 1. Return the categories (names) of the longest film. NOTE that there may be several "longest"
 films (i.e. with the same length), so you might need to return more than one category. Return
 the duration as well.
